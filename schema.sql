@@ -57,9 +57,9 @@ INSERT INTO role (title, salary, department_id)
 VALUE ("Production", 200000, 4);
 
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUE ("Jennifer", "Smith", null, 1);
+VALUE ("Will", "Smith", null, 1);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUE ("Miranda", "Ali", null, 2);
+VALUE ("Melanie", "Hardhome", null, 2);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("John","Jackson",null,3);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
