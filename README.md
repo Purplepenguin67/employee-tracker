@@ -71,7 +71,8 @@ Run "node app.js" in command line and you will be prompted with options.
 
 ## Deployment
 
-Video: 
+Video: [Untitled_ Oct 5, 2022 11_49 PM.webm](https://user-images.githubusercontent.com/103548864/194233936-2bb95776-4cd6-4564-927f-c1e453b2057a.webm)
+
 
 
 
