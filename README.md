@@ -5,8 +5,9 @@ This is a CLI app that allows a user to perform create, read, update, and delete
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
 - [Screenshots](#screenshots)
-- [Authors](#authors)
+- [Author](#author)
 - [Deployment](#deployment)
 - [License](#license)
 
@@ -54,7 +55,9 @@ WHEN I choose to update an employee role
 
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
+## Installation
 
+Run "node app.js" in command line and you will be prompted with options.
 
 ## Screenshots
 
